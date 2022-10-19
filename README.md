@@ -573,6 +573,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * IoT Based Smart Door Locking System
 * IoT based temprature controlled fan
 * IoT Based Humidity and Temperature Monitoring Using Arduino Uno
+* IoT Weather Reporting system using Raspberry pi
 ## Data Science
 
 * Chatbot
